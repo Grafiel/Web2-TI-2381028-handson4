@@ -16,13 +16,13 @@ const ProductList = () => {
             imageUrl: 'https://images.tokopedia.net/img/cache/700/OJWluG/2022/9/9/bbb43eb9-d16d-4152-a8b4-e7ccae804571.jpg.webp?ect=4g',
         },
         {
-            name: 'Skyrim',
+            name: 'The Elder Scrolls V: Skyrim',
             description: 'Fallout New Vegas but in a fantasy medieval world',
             price: '$16',
             imageUrl: 'https://assets-prd.ignimgs.com/2021/08/19/elder-scrolls-skyrim-button-2017-1629409446732.jpg',
         },
         {
-            name: 'Fallout New Vegas',
+            name: 'Fallout: New Vegas',
             description: 'Skyrim but in a post-apocalyptic world',
             price: '$6',
             imageUrl: 'https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Fallout_New_Vegas.jpg/220px-Fallout_New_Vegas.jpg',
